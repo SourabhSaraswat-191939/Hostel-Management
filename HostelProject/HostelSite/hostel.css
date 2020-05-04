@@ -1,0 +1,93 @@
+#carousel-item{
+    height: 400px;
+}
+.card{
+	padding-left: 55px;
+	padding-top: 10px;
+	border: none;
+	margin: 40px;
+	height: 500px;
+	
+
+
+}
+.card-text{
+	text-align: center;
+}
+.card-title{
+	font-size: 30px;
+	color: #007bff;
+	text-align: center;
+}
+.nav-link{
+	padding: 10px;
+}
+/* .card-img-top{
+	height: 300px;
+	width: 550px;
+	box-shadow: 10px 10px #888888;
+} */
+.a{
+	box-shadow: 20px 20px 20px #01040A;
+}
+.card-bodys{
+	margin-top: 20px;
+}
+.app-form-group{
+	text-align: center;
+}
+.app-form-control{
+	width: 65%;
+}
+.app-title{
+	text-align: center;
+}
+.screen-body{
+	background-color: #057EF0;
+	height: 500px;
+	width: 100%;
+}
+.size{
+	font-size: 30px;
+}
+.location{
+	background-color: black;
+	text-align: center;
+}
+.app-form-button{
+	background-color: #A3BD3A;
+}
+.app-form-controls{
+	text-align:left;
+
+	width: 65%;
+	height: 200px;
+}
+.nav{
+	background-color: ;
+	height: 100%;
+}
+.navs{
+	margin-left: 0px;
+	background-color: ;
+}
+/* dfhbfcgnjcghjgchk, */
+#heading{
+	margin-left: 90px;
+	font-size: 40px;
+	
+}
+.nav-items{
+	margin-left: 300px;
+}
+.nav-itemss{
+	margin-right: 200px; 	
+}
+.login{
+	margin-left: 95%;
+	background-color: #A5BD3A;
+	font-style: cube;
+	font-size: 22px;
+	width: 80px;
+
+}
